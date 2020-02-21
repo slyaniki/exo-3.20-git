@@ -22,5 +22,7 @@ pour finir on va devvoir taper les commandes suivantes :
 `git commit -m "premier commit"`puis
 `git push -u origin master`
 
+NB : il se peut qu'on vous demande de connecter votre email et votre password github entre les commandes faites le
+
 on peut actualiser notre github et voir le fichier html a l'interieur de notre dossier git
 
