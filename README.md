@@ -18,9 +18,9 @@ voila on à donc notre fichier à l'interieur de notre dossier. Pour voir le con
 cette. fois ci on va commencer à envoyer notre fichier sur notre githu.Pour cela on va devoir 
 aller sur notre github et créer un repository du meme nom que notre dossier sur le bureau ... donc repository du nom de `testgit `
 pour finir on va devvoir taper les commandes suivantes :
-git add index.html
-git commit -m "premier commit"
-git push -u origin master
+`git add index.html` ensuite 
+`git commit -m "premier commit"`puis
+`git push -u origin master`
 
 on peut actualiser notre github et voir le fichier html a l'interieur de notre dossier git
 
